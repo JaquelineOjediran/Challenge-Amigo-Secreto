@@ -1,7 +1,8 @@
 # Challenge-Amigo-Secreto
 
-Amigo Secreto
-Neste desafio, você desenvolverá uma aplicação que permita aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
+Amigo Secreto - Challenge Alura
+
+Neste desafio, desenvolvi uma aplicação que permitirá aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
 
 O usuário deverá adicionar nomes por meio de um campo de texto e de um botão "Adicionar".
 
